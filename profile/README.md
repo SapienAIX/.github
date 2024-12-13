@@ -36,7 +36,8 @@ We welcome contributions from researchers, developers, and enthusiasts:
 ## Code Structure
 
 - `/SapienAI/`: The main branch project infos.
-- `/SapienAIAgents/`: Contains scripts and models for AI agents.
+- `/SapienAIAgent/`: Contains scripts of the main AI agent.
+- `/SapienAIAgents/`: Contains scripts and models for more AI agents.
 - `/SapienAITools/`: Development of specialized AI tools.
 - `/SapienAIResearch/`: Documentation and data related to ongoing research projects.
 - `/SapienDocs/`: Detailed documentation, whitepapers, and research findings.
